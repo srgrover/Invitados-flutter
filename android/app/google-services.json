@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074477651111",
+    "project_id": "invitados-be0bd",
+    "storage_bucket": "invitados-be0bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074477651111:android:056d8ac21cb702380fb782",
+        "android_client_info": {
+          "package_name": "com.grovercorp.invitados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074477651111-6tlm2hbom2dj42sk3ldj4j9ah9na1cou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLoINkI-T3SFFkk6dRpKXB4P-X8ji7ETw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074477651111-6tlm2hbom2dj42sk3ldj4j9ah9na1cou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
